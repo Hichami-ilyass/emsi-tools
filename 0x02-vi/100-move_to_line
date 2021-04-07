@@ -1,0 +1,1 @@
+the commande to move the cursor to line 32 is : :n<Return> or nG where n=32 or any specific line number
